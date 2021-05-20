@@ -8,8 +8,6 @@
 
 ![Branching](Lanovskyi-site.PNG)
 
-#
-#
 
 В качестве ссылки вставлю [Мой Бихенс](https://www.behance.net/lanovskiy).
 Там еще пустынно, но я работаю над этим
