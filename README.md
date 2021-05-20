@@ -6,9 +6,10 @@
 
 Свой первый сайт я собрал на конструкторе в 14 лет. В 16 сделал примитивный многостраничник на HTML. 
 
-![Branching](Lanovskyi-site.png)
+![Branching](Lanovskyi-site.PNG)
+
 #
 #
 
-В качестве ссылки вставлю [Мой Бихенс](https://www.behance.net/lanovskiy)
+В качестве ссылки вставлю [Мой Бихенс](https://www.behance.net/lanovskiy).
 Там еще пустынно, но я работаю над этим
